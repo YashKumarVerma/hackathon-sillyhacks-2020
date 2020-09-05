@@ -4,10 +4,11 @@
 
 ## What we do in this part
 
-- Module to send responses
+- Bootstrap all content into one entity
 
 ## Done till now
 
 - The Router of the framework
 - Code Structure setup
 - Interfaces written for each entity
+- Module to send responses
