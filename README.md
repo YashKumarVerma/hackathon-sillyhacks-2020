@@ -4,6 +4,4 @@
 
 ## What we do in this part
 
-- Setup Project Structure
-- Create files to write code in
-- Explain code structure
+- Setup interfaces for all entities
