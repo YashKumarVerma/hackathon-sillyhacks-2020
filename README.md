@@ -4,4 +4,10 @@
 
 ## What we do in this part
 
-- Setup interfaces for all entities
+- Module to send responses
+
+## Done till now
+
+- The Router of the framework
+- Code Structure setup
+- Interfaces written for each entity
