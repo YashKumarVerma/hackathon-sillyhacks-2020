@@ -6,7 +6,7 @@ class Response extends http.ServerResponse {
   constructor(requestObject: http.IncomingMessage, responseObject: http.ServerResponse) {
     super(requestObject)
     this.response = responseObject
-    this.response.setHeader('X-Powered-By', 'medhacks-2020')
+    this.response.setHeader('X-Powered-By', 'sillyhacks-2020')
   }
 
   status(code: number = 200): Response {
